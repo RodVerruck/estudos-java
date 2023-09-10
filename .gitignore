@@ -1,0 +1,7 @@
+# Ignorar a pasta .metadata
+.metadata/
+
+# Ignorar a pasta .recommenders
+.recommenders/
+
+
